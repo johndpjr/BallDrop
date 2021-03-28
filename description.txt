@@ -1,0 +1,2 @@
+PhysixEngine is a physics engine built in pygame that seeks to model the forces and interactions
+of Objects with each other and their environment.
